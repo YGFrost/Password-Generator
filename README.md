@@ -1,2 +1,4 @@
 # Password-Generator
-Password generator made with python
+This is a really simple password generator made with python 
+
+im still quite a beginner ^^
